@@ -1,0 +1,15 @@
+#anunturi{
+    text-align: center;
+    color: green;
+    border-bottom: 1px solid black;
+    padding-bottom:10px;
+
+}
+
+.borderRow{
+    border-bottom: 1px solid black;
+}
+
+#headTable{
+    background-color: #ffbb99;
+}
